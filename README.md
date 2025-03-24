@@ -15,7 +15,7 @@ PROGRAMMING LANGUAGES:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,nodejs,react,jquery,java,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,nodejs,react,jquery,java,spring)](https://skillicons.dev)
 
 
 
